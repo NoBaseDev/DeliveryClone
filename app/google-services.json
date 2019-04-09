@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "812751689402",
+    "firebase_url": "https://deliveryclone-a6806.firebaseio.com",
+    "project_id": "deliveryclone-a6806",
+    "storage_bucket": "deliveryclone-a6806.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812751689402:android:663c0d45aa03cf92",
+        "android_client_info": {
+          "package_name": "com.example.deliveryclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812751689402-6el4i8buv5k3lorthiqc17ujuar8mea2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQGLLBxv82CIdVQE_cDH2Y7tMrMgt-N04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812751689402-6el4i8buv5k3lorthiqc17ujuar8mea2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
